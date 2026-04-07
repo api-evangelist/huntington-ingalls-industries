@@ -1,7 +1,12 @@
 aid: huntington-ingalls-industries
-url: https://raw.githubusercontent.com/api-evangelist/huntington-ingalls-industries/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/huntington-ingalls-industries/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.huntington-ingalls-industries.com
+description: >-
+  Huntington Ingalls Industries is the largest military shipbuilding company in the
+  United States, designing, building, overhauling, and repairing ships primarily for
+  the U.S. Navy and Coast Guard.
