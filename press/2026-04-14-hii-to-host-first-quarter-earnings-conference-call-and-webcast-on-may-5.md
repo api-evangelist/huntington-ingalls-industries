@@ -1,7 +1,9 @@
 ---
 title: HII to Host First Quarter Earnings Conference Call and  Webcast on May 5
 url: https://hiicomstg.wpengine.com/news/hii-to-host-first-quarter-earnings-conference-call-and-webcast-on-may-5-2/
-date: '2026-04-14'
+published: ''
+date_basis: harvested
+harvested: '2026-04-14'
 author: Robert Brauchle
 feed_url: http://www.huntingtoningalls.com/news/feed
 ---

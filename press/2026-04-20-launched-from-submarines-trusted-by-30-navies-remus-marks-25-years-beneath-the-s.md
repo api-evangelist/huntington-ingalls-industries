@@ -2,7 +2,9 @@
 title: 'Launched From Submarines, Trusted by 30 Navies: REMUS Marks 25 Years Beneath
   the Surface'
 url: https://hiicomstg.wpengine.com/news/launched-from-submarines-trusted-by-30-navies-remus-marks-25-years-beneath-the-surface/
-date: '2026-04-20'
+published: ''
+date_basis: harvested
+harvested: '2026-04-20'
 author: Robert Brauchle
 feed_url: http://www.huntingtoningalls.com/news/feed
 ---

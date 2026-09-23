@@ -1,7 +1,9 @@
 ---
 title: HII Hosts PAE Maritime Christopher Miller at Ingalls Shipbuilding
 url: https://hiicomstg.wpengine.com/news/hii-hosts-pae-maritime-christopher-miller-at-ingalls-shipbuilding/
-date: '2026-04-09'
+published: ''
+date_basis: harvested
+harvested: '2026-04-09'
 author: Robert Brauchle
 feed_url: http://www.huntingtoningalls.com/news/feed
 ---

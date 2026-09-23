@@ -2,7 +2,9 @@
 title: HII Redelivers USS New Jersey (SSN 796) from Post-Shakedown Availability at
   Newport News Shipbuilding
 url: https://hiicomstg.wpengine.com/news/hii-redelivers-uss-new-jersey-ssn-796-from-post-shakedown-availability-at-newport-news-shipbuilding/
-date: '2026-04-03'
+published: ''
+date_basis: harvested
+harvested: '2026-04-03'
 author: Robert Brauchle
 feed_url: http://www.huntingtoningalls.com/news/feed
 ---

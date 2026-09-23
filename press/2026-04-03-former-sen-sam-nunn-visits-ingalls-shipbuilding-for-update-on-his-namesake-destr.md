@@ -2,7 +2,9 @@
 title: Former Sen. Sam Nunn Visits Ingalls Shipbuilding for Update on His Namesake
   Destroyer
 url: https://hiicomstg.wpengine.com/news/former-sen-sam-nunn-visits-ingalls-shipbuilding-for-update-on-his-namesake-destroyer/
-date: '2026-04-03'
+published: ''
+date_basis: harvested
+harvested: '2026-04-03'
 author: Robert Brauchle
 feed_url: http://www.huntingtoningalls.com/news/feed
 ---

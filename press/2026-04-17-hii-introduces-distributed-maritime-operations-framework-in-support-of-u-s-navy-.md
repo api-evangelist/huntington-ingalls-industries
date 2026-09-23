@@ -2,7 +2,9 @@
 title: HII Introduces Distributed Maritime Operations Framework in Support of U.S.
   Navy’s “Hedge Strategy”
 url: https://hiicomstg.wpengine.com/news/hii-introduces-distributed-maritime-operations-framework-in-support-of-u-s-navys-hedge-strategy/
-date: '2026-04-17'
+published: ''
+date_basis: harvested
+harvested: '2026-04-17'
 author: Robert Brauchle
 feed_url: http://www.huntingtoningalls.com/news/feed
 ---

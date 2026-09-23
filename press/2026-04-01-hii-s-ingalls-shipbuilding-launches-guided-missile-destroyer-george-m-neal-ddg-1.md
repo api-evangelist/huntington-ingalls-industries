@@ -2,7 +2,9 @@
 title: HII’s Ingalls Shipbuilding Launches Guided Missile Destroyer George M. Neal
   (DDG 131)
 url: https://hiicomstg.wpengine.com/news/hiis-ingalls-shipbuilding-launches-guided-missile-destroyer-george-m-neal-ddg-131/
-date: '2026-04-01'
+published: ''
+date_basis: harvested
+harvested: '2026-04-01'
 author: Robert Brauchle
 feed_url: http://www.huntingtoningalls.com/news/feed
 ---

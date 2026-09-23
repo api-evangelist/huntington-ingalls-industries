@@ -2,7 +2,9 @@
 title: HII Teams with GrayMatter Robotics to Integrate Physical AI into Manned and
   Unmanned Shipbuilding
 url: https://hiicomstg.wpengine.com/news/hii-teams-with-graymatter-robotics-to-integrate-physical-ai-into-manned-and-unmanned-shipbuilding/
-date: '2026-04-07'
+published: ''
+date_basis: harvested
+harvested: '2026-04-07'
 author: Robert Brauchle
 feed_url: http://www.huntingtoningalls.com/news/feed
 ---

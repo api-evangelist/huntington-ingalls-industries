@@ -1,7 +1,9 @@
 ---
 title: HII’s Newport News Shipbuilding Apprentice School is ‘Investing in America’
 url: https://hiicomstg.wpengine.com/news/hiis-newport-news-shipbuilding-apprentice-school-is-investing-in-america/
-date: '2026-04-02'
+published: ''
+date_basis: harvested
+harvested: '2026-04-02'
 author: Robert Brauchle
 feed_url: http://www.huntingtoningalls.com/news/feed
 ---
